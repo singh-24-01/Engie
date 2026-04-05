@@ -1,7 +1,7 @@
-# Application Engie — Analyse de Consommation Énergétique
+# Application Engie - Analyse de Consommation Énergétique
 
 **Auteur :** Sandeep-Singh NIRMAL  
-**Formation :** BUT Informatique — Parcours Data · Université Paris Cité  
+**Formation :** BUT Informatique - Parcours Data · Université Paris Cité  
 **Année :** 2023
 
 ---
@@ -37,10 +37,10 @@ Les données fournies couvrent deux points de consommation (PDL 1 et PDL 2) sur 
 ## Stack technique
 
 - **Python 3**
-- **Streamlit** — Interface web interactive
-- **Pandas / NumPy** — Manipulation des données
-- **Matplotlib / Seaborn** — Visualisation
-- **XGBoost / Scikit-learn** — Modélisation prédictive
+- **Streamlit** - Interface web interactive
+- **Pandas / NumPy** - Manipulation des données
+- **Matplotlib / Seaborn** - Visualisation
+- **XGBoost / Scikit-learn** - Modélisation prédictive
 
 ---
 
